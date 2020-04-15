@@ -1,4 +1,4 @@
-package com.dope.clima
+package com.example.clima_app
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
